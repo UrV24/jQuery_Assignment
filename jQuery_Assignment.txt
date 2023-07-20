@@ -1,0 +1,10 @@
+1.jQuery is a lightweight, "write less, do more", JavaScript library. The purpose of jQuery is to make it much easier to use JavaScript on your website.
+
+2.jQuery Manipulating CSS
+-addClass() - Adds one or more classes to the selected elements.
+-removeClass() - Removes one or more classes from the selected elements.
+-toggleClass() - Toggles between adding/removing classes from the selected elements.
+-css() - Sets or returns the style attribute.
+
+3.jQuery slideToggle() Method
+If the elements have been slid up, slideToggle() will slide them down. $(selector).slideToggle(speed,callback); The optional speed parameter can take the following values: "slow", "fast", milliseconds. The optional callback parameter is a function to be executed after the sliding completes.
